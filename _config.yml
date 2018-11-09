@@ -95,6 +95,7 @@ menu:
   home: / || home
   bandwagon: /categories/bandwagon/ || bold
   Vultr: /categories/Vultr/ || vimeo-square
+  discount: /categories/discount || tags
   
   #about: /about/ || user
   #tags: /tags/ || tags
