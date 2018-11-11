@@ -364,7 +364,7 @@ baidu_analytics: 90c75b4cf51029937531c125fe4e5acb
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: abcvps
   count: true
 
@@ -382,12 +382,12 @@ changyan:
 # You can get your appid and appkey from https://leancloud.cn
 # more info please open https://valine.js.org
 valine:
-  enable: false
-  appid:  # your leancloud application appid
-  appkey:  # your leancloud application appkey
+  enable: true
+  appid:  zvqRrWYVwpWRE5vcsqGCIK2E-gzGzoHsz
+  appkey: lUs5Ad4MEqboA6YhNTNrK17C
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
-  placeholder: Just go go # comment box placeholder
+  placeholder: 造作 # comment box placeholder
   avatar: mm # gravatar style
   guest_info: nick,mail,link # custom comment header
   pageSize: 10 # pagination size
