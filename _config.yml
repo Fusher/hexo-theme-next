@@ -149,11 +149,13 @@ social_icons:
 
 # Blog rolls
 links_icon: link
-links_title: Links
-links_layout: block
-#links_layout: inline
-#links:
-  #Title: http://example.com/
+links_title: 推荐阅读
+# links_layout: block
+links_layout: inline
+links:
+  搬瓦工: https://www.abcvps.cn/categories/bandwagon/
+  Vultr: https://www.abcvps.cn/categories/Vultr/
+  优惠: https://www.abcvps.cn/categories/discount/
 
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
